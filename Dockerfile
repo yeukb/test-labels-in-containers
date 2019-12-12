@@ -1,6 +1,6 @@
 from alpine:latest
 
-LABEL version="1.0"
+LABEL version="1.1"
 LABEL description="Test with Labels in Image"
 LABEL application="true"
 LABEL deployment="production"
