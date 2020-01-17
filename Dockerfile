@@ -1,8 +1,8 @@
 from alpine:latest
 
-LABEL version="1.2"
+LABEL version="1.3"
 LABEL description="Test with Labels in Image"
-LABEL application="true"
+LABEL CI="GoCD"
 LABEL deployment="production"
 
 ENV MYSQL_HOST="DB_Server"
