@@ -1,6 +1,6 @@
 from alpine:latest
 
-LABEL version="1.3"
+LABEL version="1.4"
 LABEL description="Test with Labels in Image"
 LABEL CI="GoCD"
 LABEL deployment="production"
